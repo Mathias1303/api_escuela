@@ -1,0 +1,7 @@
+org\cibertec\apiescuela\service\DocenteService.class
+org\cibertec\apiescuela\entity\DocenteEntity.class
+org\cibertec\apiescuela\dto\DocenteDTO.class
+org\cibertec\apiescuela\controller\DocenteController.class
+org\cibertec\apiescuela\ApiEscuelaApplication.class
+org\cibertec\apiescuela\util\AppSettings.class
+org\cibertec\apiescuela\repository\DocenteRepository.class
